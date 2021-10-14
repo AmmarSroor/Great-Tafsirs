@@ -57,7 +57,7 @@ flutter:
     - assets/QuranFramDesign.png
     - assets/images/pages/
     - assets/images/buttons_images/
-
+    - assets/images/icons/
 
   # example:
   # fonts:
