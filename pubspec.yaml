@@ -14,6 +14,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_plugin_pdf_viewer: any
   # Service locator
   get_it: ^7.2.0
   # Bloc for state management
@@ -24,11 +25,9 @@ dependencies:
   dartz: ^0.10.0
   # Remote API
   data_connection_checker: ^0.3.4
-  http: ^0.13.3
+  #http: ^0.13.3
   # Local cache
   shared_preferences: ^2.0.7
-
-
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -58,6 +57,9 @@ flutter:
     - assets/images/pages/
     - assets/images/buttons_images/
     - assets/images/icons/
+    - assets/images/social_logos/
+    - assets/pdf_files/user_guide.pdf
+
 
   # example:
   # fonts:
