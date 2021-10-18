@@ -10,7 +10,6 @@ version: 1.0.0+1
 environment:
   sdk: ">=2.12.0 <3.0.0"
 
-
 dependencies:
   flutter:
     sdk: flutter
@@ -60,6 +59,7 @@ flutter:
     - assets/images/background_splash.png
     - assets/images/QuranPageBackground.jpg
     - assets/images/background_header.png
+    - assets/images/AyahActionHeader.png
     - assets/QuranFramDesign.png
     - assets/images/pages/
     - assets/images/buttons_images/
